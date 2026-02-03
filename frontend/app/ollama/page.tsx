@@ -110,7 +110,7 @@ export default function FocusChatPage() {
                         >
                             {/* ANSWER OR THINKING */}
                             <div className="flex-1 flex flex-col items-center justify-center w-full">
-                                {interaction?.answer !== null && interaction?.answer !== "" ? (
+                                {interaction && interaction.answer ? (
                                     <div className="text-xl md:text-3xl text-jarvis-green leading-relaxed drop-shadow-[0_0_8px_rgba(0,255,65,0.4)] whitespace-pre-wrap max-w-full">
                                         {interaction.answer}
                                         {isLoading && <span className="animate-pulse ml-1 inline-block w-3 h-6 bg-jarvis-green align-middle" />}
