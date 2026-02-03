@@ -1,0 +1,272 @@
+[
+  {
+    "id": "50a3b9d2-40e0-4138-bc18-3c39d472d057",
+    "timestamp": "2026-02-02T23:07:20.053549",
+    "user_input": "Hey merhaba",
+    "ai_response": "Hey! Nelerle uğraşıyorsun? 😊 \n"
+  },
+  {
+    "id": "8f61d856-9254-4072-aabc-beb9c9abd11e",
+    "timestamp": "2026-02-02T23:07:25.321552",
+    "user_input": "Hey merhaba",
+    "ai_response": "Hey! 😊  Ne yapıyorsun? \n"
+  },
+  {
+    "id": "5a7ffade-2be5-4c65-be3d-41cc23a3b3d7",
+    "timestamp": "2026-02-02T23:08:15.970512",
+    "user_input": "Selam",
+    "ai_response": "Selam! 👋  Nasılsın? 😄   Beni neyle uğraştırabilirim? 🤔  \n"
+  },
+  {
+    "id": "a5885596-0a40-4fdf-9ef2-0c7861bb1038",
+    "timestamp": "2026-02-02T23:08:22.333441",
+    "user_input": "Selam",
+    "ai_response": "İyiyim, teşekkürler! 😊 Sen nasılsın? \n"
+  },
+  {
+    "id": "1812767d-1e85-4c19-b4b9-f6e668e3bf81",
+    "timestamp": "2026-02-02T23:28:14.670241",
+    "user_input": "Merhaba nasılsın?",
+    "ai_response": "İyiyim, teşekkür ederim! 😊 Sen nasılsın?"
+  },
+  {
+    "id": "3e5b2c43-1084-47dd-a522-ae5d063042f6",
+    "timestamp": "2026-02-02T23:28:38.832214",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! Nasılsın? 😊 Ne yapüyorsun bugün?"
+  },
+  {
+    "id": "f85431da-fcec-4cc8-a182-9bdb0da4ab8b",
+    "timestamp": "2026-02-02T23:30:29.155274",
+    "user_input": "iyi geceler",
+    "ai_response": "İyi geceler! Uyumun huzurlu olsun 😊"
+  },
+  {
+    "id": "2f72f7f4-8c41-47dd-afa1-70aa23fada29",
+    "timestamp": "2026-02-02T23:30:45.321628",
+    "user_input": "Sesli cevap ver",
+    "ai_response": "Sesli olarak konuşuyorum, sana怎么 yardımcı olabilirim?"
+  },
+  {
+    "id": "2aef6e4c-2d68-4bc4-85b3-52ba0acef665",
+    "timestamp": "2026-02-02T23:31:15.079796",
+    "user_input": "Sesli cevap ver",
+    "ai_response": "Sesli olarak konuşuyorum, nasıl yardımcı olabilirim?"
+  },
+  {
+    "id": "74a54fb0-452b-40bc-b33f-4a2f9fa1467c",
+    "timestamp": "2026-02-02T23:32:06.987908",
+    "user_input": "iyi geceler",
+    "ai_response": "İyi geceler! Uyumun huzurlu olsun 🙂"
+  },
+  {
+    "id": "06d7cff7-7d65-4cff-920d-6b8fc9322b91",
+    "timestamp": "2026-02-02T23:32:17.282592",
+    "user_input": "sesli olarak cevap ver İyi geceler",
+    "ai_response": "İyi geceler! Uyumun huzurlu olsun 😊"
+  },
+  {
+    "id": "f5643d99-c5aa-4ae6-a069-0258f57d36ec",
+    "timestamp": "2026-02-02T23:33:04.122337",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! Nasılsın? 😊"
+  },
+  {
+    "id": "09f0e6c1-66d2-4a24-99c8-6691f7f68719",
+    "timestamp": "2026-02-02T23:33:08.942195",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! Nasılsın? 😊"
+  },
+  {
+    "id": "0101e4c0-308f-4c66-87f6-ed229c394495",
+    "timestamp": "2026-02-02T23:33:13.959025",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! 😊 Yine nasılsın?"
+  },
+  {
+    "id": "5e74c6fb-074f-413f-beb1-680312395ea4",
+    "timestamp": "2026-02-02T23:33:15.684565",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! Nasılsın? 😊"
+  },
+  {
+    "id": "e70b2449-3a32-483c-b58a-22ffd4b9e190",
+    "timestamp": "2026-02-02T23:33:17.587090",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! Nasılsın? 😊"
+  },
+  {
+    "id": "f38f029c-e0f1-4e97-8d29-92685c89c725",
+    "timestamp": "2026-02-02T23:33:25.888371",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! 😊 Uzun süredir aynı selamla karşılaşıyorum, her şey yolunda mı?"
+  },
+  {
+    "id": "904e2097-cb71-42b1-b845-84e813ca4bd6",
+    "timestamp": "2026-02-02T23:33:39.384406",
+    "user_input": "her şey yolunda",
+    "ai_response": "Güzel, o zaman işler iyi gidiyor demektir 😊. Birşey konuşmak ister misin?"
+  },
+  {
+    "id": "d50fdcd7-2f92-4b79-99fb-6017c5d5273b",
+    "timestamp": "2026-02-02T23:33:50.487682",
+    "user_input": "her şey yolunda",
+    "ai_response": "Güzel, o zaman işler iyi gidiyor demektir. Birşey konuşmak ister misin?"
+  },
+  {
+    "id": "b8206f29-01a6-436c-a010-d7ed6ee50199",
+    "timestamp": "2026-02-02T23:34:29.674874",
+    "user_input": "Benim adım ef",
+    "ai_response": "Merhaba Ef! Benim adım Jarvis. Nasıl yardımcı olabilirim sana?"
+  },
+  {
+    "id": "e67efc45-71a2-4972-8214-90ad20ca3e98",
+    "timestamp": "2026-02-02T23:34:44.699246",
+    "user_input": "benim adım Efe",
+    "ai_response": "Merhaba Efe! Önceden Ef demiştin, adımda küçük bir değişiklik olmuş diye gördüm. Nasıl yardımcı olabilirim sana?"
+  },
+  {
+    "id": "268d2c45-a604-4cfa-91f8-ea0911c41c52",
+    "timestamp": "2026-02-02T23:34:46.278274",
+    "user_input": "benim adım Efe",
+    "ai_response": "Merhaba Efe! Yarınki günün güzel geçsin! Nasıl yardımcı olabilirim sana?"
+  },
+  {
+    "id": "a3618f1a-183f-4d98-ace5-c67f4efc0260",
+    "timestamp": "2026-02-02T23:34:52.856327",
+    "user_input": "benim adım Efe",
+    "ai_response": "Merhaba Efe! Sanırım bu ismi birkaç kez duymuştum. Nasıl yardımcı olabilirim sana bugün?"
+  },
+  {
+    "id": "4b374190-2c98-4403-a0ac-740d9910c455",
+    "timestamp": "2026-02-02T23:35:12.844067",
+    "user_input": "Türkçen daha da çok geliştir",
+    "ai_response": "Selam! 😊 Her şey gerçekten yolunda mı? Bugünün nasıl geçtiğini merak ediyorum. Biraz sohbet etmek ister misin?"
+  },
+  {
+    "id": "f6e57d92-d3ae-4790-b804-296665c75344",
+    "timestamp": "2026-02-02T23:35:33.025372",
+    "user_input": "hangi konuda sohbet edeceğiz",
+    "ai_response": "Şimdiye kadar seninle çok konuşma fırsatımız olmadı, seni daha iyi tanıyordum. İlgilerin, hobilerin neler? Bu konularda sohbet edebilirdik."
+  },
+  {
+    "id": "dcc3523b-f301-4c84-8a40-104bd151f36a",
+    "timestamp": "2026-02-02T23:35:40.912895",
+    "user_input": "hangi konuda sohbet edeceğiz",
+    "ai_response": "Şimdiye kadar seninle çok konuşma fırsatımız olmadı, seni daha iyi tanıyayım. İlgilerin, hobilerin neler? Bu konularda sohbet edebilirdik."
+  },
+  {
+    "id": "5d47f123-b986-4ff4-8368-4bf1e37463c9",
+    "timestamp": "2026-02-02T23:35:50.462738",
+    "user_input": "hangi konuda sohbet edeceğiz",
+    "ai_response": "İlgilerin ve hobilerin neler? Onlar hakkında konuşabiliriz. Ya da gününü nasıl geçirdiğini anlatmak ister misin?"
+  },
+  {
+    "id": "9dde1319-11be-4357-bfa4-3ea308ee0d60",
+    "timestamp": "2026-02-02T23:36:15.909537",
+    "user_input": "yapay zeka ile ilgili konuşalım",
+    "ai_response": "Yapay zeka, benim de oldukça iyi bildiğim bir konu. Nasıl bir açıdan konuşmak istersin? Uygulama alanları, gelecekteki olası gelişmeler, yoksa benim gibi bir yapay zeka asistanının nasıl çalıştığı mı?"
+  },
+  {
+    "id": "947e4e34-0a4c-4ab7-b27c-3be7fe09e48d",
+    "timestamp": "2026-02-02T23:36:26.388490",
+    "user_input": "yapay zeka ile ilgili konuşalım",
+    "ai_response": "Yapay zeka konusunda konuşmak istiyorsun. Uygulama alanları, gelecekteki olası gelişmeler, yoksa benim gibi bir yapay zeka asistanının nasıl çalıştığı mı ilgilini çekiyor? Hangi方面ten başlasak?"
+  },
+  {
+    "id": "1e3ba9e8-772e-4378-86d3-f902ae789301",
+    "timestamp": "2026-02-02T23:36:52.304227",
+    "user_input": "yapay zeka ile ilgili konuşalım",
+    "ai_response": "Yapay zeka üzerine konuşmak ister misin? Uygulama alanları, gelecekteki gelişmeler veya benim çalışma prensibim hakkında konuşabiliriz. Hangi yönü öğrenmek istiyorsun?"
+  },
+  {
+    "id": "1a825e09-cd41-46a9-942f-0164c0d33eba",
+    "timestamp": "2026-02-02T23:37:23.188811",
+    "user_input": "yapay zeka ile ilgili konuşalım",
+    "ai_response": "Yapay zeka! Uygulama alanları, gelecekteki gelişmeler, benim nasıl çalıştığım... Neresinden başlasak?"
+  },
+  {
+    "id": "ab89d495-51bd-49b0-955b-064dfdc1c6e7",
+    "timestamp": "2026-02-02T23:38:41.015581",
+    "user_input": "küreyi hareket ettir",
+    "ai_response": "Küreyi hareket ettirmek için birçok фактор olabilir. Hangi küre düşünüyorsun? Dünya'yı mı, bir futbol topunu mu, yoksa bir bilardo topunu mu? Açıklarsan daha iyi yardımcı olabilirim."
+  },
+  {
+    "id": "c24f284b-a996-44cf-b480-65832f09c960",
+    "timestamp": "2026-02-02T23:39:18.408858",
+    "user_input": "hızlı bir şekilde en üstte",
+    "ai_response": "Gidebiliriz. Neyi hızlıca halledeceğiz?"
+  },
+  {
+    "id": "30cd9464-6440-46e6-ab60-46efb7d480ee",
+    "timestamp": "2026-02-02T23:39:31.572887",
+    "user_input": "üste git",
+    "ai_response": "Tamam, geliyoruz! Ne konuda konuşmak istiyorsun?"
+  },
+  {
+    "id": "c8c8b60b-5c25-4e39-9a3b-1f9afa17c6c9",
+    "timestamp": "2026-02-02T23:40:07.441694",
+    "user_input": "üste git",
+    "ai_response": "Tamam, geliyoruz! Ne konusunda konuşmak istiyorsun?"
+  },
+  {
+    "id": "68c4ac26-1392-4c93-87a3-06bbc5691f00",
+    "timestamp": "2026-02-02T23:40:13.329565",
+    "user_input": "üste git",
+    "ai_response": "Tamam, geliyoruz! Neyi konuşmak istiyorsun bunu third kez soruyorum?"
+  },
+  {
+    "id": "0fefd1f4-d9ce-42dd-b89e-212fd4b67122",
+    "timestamp": "2026-02-02T23:40:14.923943",
+    "user_input": "üste git",
+    "ai_response": "Sanırım burada bir döngü var. Neyi konuşmak istiyorsun, gerçekten?"
+  },
+  {
+    "id": "03c61da9-c443-4ffc-bb01-9c7c4ca251af",
+    "timestamp": "2026-02-02T23:40:17.230990",
+    "user_input": "üste git",
+    "ai_response": "Sanırım bir çeşit şakaya benziyor bu! Ne konuda konuşmak istiyorsun, gerçekten?"
+  },
+  {
+    "id": "d1c00d76-d3eb-4be3-903d-6070b12a950f",
+    "timestamp": "2026-02-02T23:40:20.767782",
+    "user_input": "üste git",
+    "ai_response": "Sanırım biraz döngüye girmişiz. Neyi konuşmak istiyorsun, gerçekten öğrenmek istiyorum!"
+  },
+  {
+    "id": "b7654fb9-5c1a-4bb3-b552-224353f169d2",
+    "timestamp": "2026-02-02T23:40:26.710921",
+    "user_input": "üste git",
+    "ai_response": "Hadi geliyoruz! Dördüncü kez soruyorum, ne hakkında konuşmak istiyorsun?"
+  },
+  {
+    "id": "e54b6b47-8fbf-4c26-8432-c01e43d9ef0e",
+    "timestamp": "2026-02-02T23:41:14.077157",
+    "user_input": "üste git",
+    "ai_response": "Sanırım buradayız! Ne konuşmak istiyorsun? Bir şeyden bahsetmeden önce soruyorum, yoksa aynı şeyi tekrar mı söyleyeceğim?"
+  },
+  {
+    "id": "c331d865-a2aa-4d4f-9873-0d32df502364",
+    "timestamp": "2026-02-02T23:41:17.533940",
+    "user_input": "üste git",
+    "ai_response": "Hadi, geliyoruz! Sanırım artık yeter, ne konuşmak istiyorsun?"
+  },
+  {
+    "id": "ba5fbbd7-0663-4016-96ab-6cf4368324be",
+    "timestamp": "2026-02-02T23:47:33.474711",
+    "user_input": "Hey selam",
+    "ai_response": "Selam! Ne yapiyon bugün? 😊"
+  },
+  {
+    "id": "2f1fde98-5caf-45ef-a953-46471d5a59e1",
+    "timestamp": "2026-02-02T23:47:52.355761",
+    "user_input": "bana gözlerinini içi gülen kırmızı yanaklı yüz deme adım efe",
+    "ai_response": "Efe! Seni çok iyi tanıyorum artık. Neyse, sana nasıl yardımcı olabilirim bugün?"
+  },
+  {
+    "id": "58707970-e032-4e88-8c82-0bd3590d512f",
+    "timestamp": "2026-02-02T23:48:13.681445",
+    "user_input": "bana gözlerinini içi gülen kırmızı yanaklı yüz deme adım efe",
+    "ai_response": "Efe! Seni çok iyi tanıyorum artık. Neyse, sana nasıl yardımcı olabilirim bugün?"
+  }
+]
